@@ -45,4 +45,6 @@ m = 0
 nums2 = [1]
 n = 1
 solution.merge(nums1, m, nums2, n)
-print("Example 3:", nums1)
+print("Example 3:", nums
+
+##https://leetcode.com/problems/merge-sorted-array/submissions/1181373332?envType=study-plan-v2&envId=top-interview-150
